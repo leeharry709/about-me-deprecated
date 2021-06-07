@@ -1,3 +1,9 @@
+<p align = "center">
+  <a href = "https://github.com/leeharry709/about-me" hspace="20" vspace="20">About Me</a>
+  <a href = https://leeharry709.github.io/portfolio">Portfolio</a>
+</p>
+
+
 <img src="https://github.com/leeharry709/about-me/blob/main/media/profile%20image.png?raw=true" width="20%" align="left" hspace="20" vspace="20">
 
 My name is Harold (Harry), and I am from Ann Arbor, Michigan and graduated from East Lansing's Michigan State University. Go Green!
