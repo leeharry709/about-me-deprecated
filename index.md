@@ -25,4 +25,6 @@ Aside from data, I enjoy making illustrations on my tablet, partaking in the rol
   <a href = "https://github.com/leeharry709">
     <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/github.png">
   </a>
+  <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/email.png">
+  leeharry709@outlook.com
 </p>
