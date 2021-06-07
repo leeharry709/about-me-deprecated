@@ -1,5 +1,5 @@
 <p align = "center">
-  <a href = "https://github.com/leeharry709/about-me" hspace="20" vspace="20">About Me</a>
+  <a href = "https://github.com/leeharry709/about-me">About Me</a>
   <a href = https://leeharry709.github.io/portfolio">Portfolio</a>
 </p>
 
