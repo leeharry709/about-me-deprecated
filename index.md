@@ -4,7 +4,10 @@
   <a href = "https://leeharry709.github.io/resume/">Resume</a>
 </p>
 
-<img src="https://github.com/leeharry709/about-me/blob/main/media/profile%20image.png?raw=true" width="20%" align="left" hspace="40" vspace="40">
+<img src="https://github.com/leeharry709/about-me/blob/main/media/profile%20image.png?raw=true" width="20%" align="right" hspace="10" vspace="10">
+
+
+<br>
 
 Hi, my name is Harold (Harry) and I am from Ann Arbor, Michigan and graduated from East Lansing's Michigan State University. Go Green!
 
