@@ -17,3 +17,12 @@ Data analytics and data science is not what I graduated with from college, but i
 Aside from data, I enjoy making illustrations on my tablet, partaking in the rollercoaster of the stock market, playing games with friends, brewing coffee, and building mechanical keyboards.
 
 <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/profile%20image%201.jpg" width="100%" align="center">
+
+<p>
+  <a href = "https://www.linkedin.com/in/leeharry709/">
+    <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/linkedin.png">
+  </a>
+  <a href = "https://github.com/leeharry709">
+    <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/github.png">
+  </a>
+</p>
