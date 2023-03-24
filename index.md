@@ -9,11 +9,13 @@
 
 <br>
 
-Hi, my name is Harold (Harry) and I am from Ann Arbor, Michigan and graduated from East Lansing's Michigan State University. Go Green!
+Hi, my name is Harry! I'm currently a data engineer, exploring the boundless potential of big data and analytics.
 
-The first time I was introduced to coding and data analysis was when I was taking courses in Computer Science and Engineering at my university. Though I ended up receiving my bachelor's degree in Pre-Medicine, I came back to my fond memories of computer science. I began to take online classes for mySQL and python and reading documentation on packages such as pandas, matplotlib, and tensorflow. Currently, I am a data analyst who cleans market data for jobs, performs correlary analysis regarding internal equity, proposes changes backed by exploratory analysis to existing compensation plans, and visualizes data for executives. Data analytics and data science may not be what I graduated with from college, but it is now my career future. It is what I want to be doing. It is what I know I can do best.
+My work primarily consists of building the analytical layer of the People Team's data platform, creating tables and views via SQL that are front-facing to any project that my team creates. I also assist in Tableau development and assessing and investgating potential advanced analytics projects as we expand our technical capabilities from data analytics to data science.
 
-Aside from data, I enjoy making illustrations on my tablet, partaking in the rollercoaster of the stock market, playing games with friends, brewing coffee, and building mechanical keyboards.
+I started my career journey as a Compensation Analyst in 2018 in Michigan, introducing analytics via excel, Tableau, and basic python, before moving to Seattle to pursue a larger career in Tech with Expedia Group. Within my 2+ year tenure at the company, I have taken on 2 promotions and have presented insights directly to various chief officers that directly report to the CEO. I have also expanded my technical library of skills to being the SQL expert of my team and studying advanced python libraries and packages such as pytorch, tensorflow, cv2, and streamlit.
+
+I strive to continue to grow into a data scientist as it is my dream job, delivering advanced and meaningful insights to those that have the power to make change for good.
 
 <img src="https://raw.githubusercontent.com/leeharry709/about-me/main/media/profile%20image%201.jpg" width="100%" align="center">
 
